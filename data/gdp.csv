@@ -1,0 +1,797 @@
+country,code,year,gdp
+Australia,AUS,"Sun, 01 Jan 1820 11:00:00 PM",826
+Australia,AUS,"Sun, 01 Jan 1821 11:00:00 PM",834
+Australia,AUS,"Sun, 01 Jan 1822 11:00:00 PM",858
+Australia,AUS,"Sun, 01 Jan 1823 11:00:00 PM",886
+Australia,AUS,"Sun, 01 Jan 1824 11:00:00 PM",936
+Australia,AUS,"Sun, 01 Jan 1825 11:00:00 PM",982
+Australia,AUS,"Sun, 01 Jan 1826 11:00:00 PM",999
+Australia,AUS,"Sun, 01 Jan 1827 11:00:00 PM",1030
+Australia,AUS,"Sun, 01 Jan 1828 11:00:00 PM",1057
+Australia,AUS,"Sun, 01 Jan 1829 11:00:00 PM",1114
+Australia,AUS,"Sun, 01 Jan 1830 11:00:00 PM",1352
+Australia,AUS,"Sun, 01 Jan 1831 11:00:00 PM",1398
+Australia,AUS,"Sun, 01 Jan 1832 11:00:00 PM",1428
+Australia,AUS,"Sun, 01 Jan 1833 11:00:00 PM",1435
+Australia,AUS,"Sun, 01 Jan 1834 11:00:00 PM",1508
+Australia,AUS,"Sun, 01 Jan 1835 11:00:00 PM",1825
+Australia,AUS,"Sun, 01 Jan 1836 11:00:00 PM",1793
+Australia,AUS,"Sun, 01 Jan 1837 11:00:00 PM",1881
+Australia,AUS,"Sun, 01 Jan 1838 11:00:00 PM",1857
+Australia,AUS,"Sun, 01 Jan 1839 11:00:00 PM",1733
+Australia,AUS,"Sun, 01 Jan 1840 11:00:00 PM",2190
+Australia,AUS,"Sun, 01 Jan 1841 11:00:00 PM",1868
+Australia,AUS,"Sun, 01 Jan 1842 11:00:00 PM",1704
+Australia,AUS,"Sun, 01 Jan 1843 11:00:00 PM",1975
+Australia,AUS,"Sun, 01 Jan 1844 11:00:00 PM",2246
+Australia,AUS,"Sun, 01 Jan 1845 11:00:00 PM",2310
+Australia,AUS,"Sun, 01 Jan 1846 11:00:00 PM",2554
+Australia,AUS,"Sun, 01 Jan 1847 11:00:00 PM",2954
+Australia,AUS,"Sun, 01 Jan 1848 11:00:00 PM",3381
+Australia,AUS,"Sun, 01 Jan 1849 11:00:00 PM",3339
+Australia,AUS,"Sun, 01 Jan 1850 11:00:00 PM",3148
+Australia,AUS,"Sun, 01 Jan 1851 11:00:00 PM",3736
+Australia,AUS,"Sun, 01 Jan 1852 11:00:00 PM",4382
+Australia,AUS,"Sun, 01 Jan 1853 11:00:00 PM",4798
+Australia,AUS,"Sun, 01 Jan 1854 11:00:00 PM",4202
+Australia,AUS,"Sun, 01 Jan 1855 11:00:00 PM",3988
+Australia,AUS,"Sun, 01 Jan 1856 11:00:00 PM",4866
+Australia,AUS,"Sun, 01 Jan 1857 11:00:00 PM",4294
+Australia,AUS,"Sun, 01 Jan 1858 11:00:00 PM",3661
+Australia,AUS,"Sun, 01 Jan 1859 11:00:00 PM",4728
+Australia,AUS,"Sun, 01 Jan 1860 11:00:00 PM",4613
+Australia,AUS,"Sun, 01 Jan 1861 11:00:00 PM",4544
+Australia,AUS,"Sun, 01 Jan 1862 11:00:00 PM",4368
+Australia,AUS,"Sun, 01 Jan 1863 11:00:00 PM",4352
+Australia,AUS,"Sun, 01 Jan 1864 11:00:00 PM",4616
+Australia,AUS,"Sun, 01 Jan 1865 11:00:00 PM",4403
+Australia,AUS,"Sun, 01 Jan 1866 11:00:00 PM",4532
+Australia,AUS,"Sun, 01 Jan 1867 11:00:00 PM",4956
+Australia,AUS,"Sun, 01 Jan 1868 11:00:00 PM",5031
+Australia,AUS,"Sun, 01 Jan 1869 11:00:00 PM",4932
+Australia,AUS,"Sun, 01 Jan 1870 11:00:00 PM",5217
+Australia,AUS,"Sun, 01 Jan 1871 11:00:00 PM",5259
+Australia,AUS,"Sun, 01 Jan 1872 11:00:00 PM",5663
+Australia,AUS,"Sun, 01 Jan 1873 11:00:00 PM",6095
+Australia,AUS,"Sun, 01 Jan 1874 11:00:00 PM",6113
+Australia,AUS,"Sun, 01 Jan 1875 11:00:00 PM",6596
+Australia,AUS,"Sun, 01 Jan 1876 11:00:00 PM",6387
+Australia,AUS,"Sun, 01 Jan 1877 11:00:00 PM",6433
+Australia,AUS,"Sun, 01 Jan 1878 11:00:00 PM",6817
+Australia,AUS,"Sun, 01 Jan 1879 11:00:00 PM",6703
+Australia,AUS,"Sun, 01 Jan 1880 11:00:00 PM",6830
+Australia,AUS,"Sun, 01 Jan 1881 11:00:00 PM",7101
+Australia,AUS,"Sun, 01 Jan 1882 11:00:00 PM",6476
+Australia,AUS,"Sun, 01 Jan 1883 11:00:00 PM",7133
+Australia,AUS,"Sun, 01 Jan 1884 11:00:00 PM",6861
+Australia,AUS,"Sun, 01 Jan 1885 11:00:00 PM",7049
+Australia,AUS,"Sun, 01 Jan 1886 11:00:00 PM",6900
+Australia,AUS,"Sun, 01 Jan 1887 11:00:00 PM",7383
+Australia,AUS,"Sun, 01 Jan 1888 11:00:00 PM",7179
+Australia,AUS,"Sun, 01 Jan 1889 11:00:00 PM",7567
+Australia,AUS,"Sun, 01 Jan 1890 11:00:00 PM",7106
+Australia,AUS,"Sun, 01 Jan 1891 11:00:00 PM",7438
+Australia,AUS,"Sun, 01 Jan 1892 11:00:00 PM",6368
+Australia,AUS,"Sun, 01 Jan 1893 11:00:00 PM",5910
+Australia,AUS,"Sun, 01 Jan 1894 11:00:00 PM",6003
+Australia,AUS,"Sun, 01 Jan 1895 11:00:00 PM",5558
+Australia,AUS,"Sun, 01 Jan 1896 11:00:00 PM",5874
+Australia,AUS,"Sun, 01 Jan 1897 11:00:00 PM",5451
+Australia,AUS,"Sun, 01 Jan 1898 11:00:00 PM",6202
+Australia,AUS,"Sun, 01 Jan 1899 11:00:00 PM",6121
+Australia,AUS,"Sun, 01 Jan 1900 11:00:00 PM",6397
+Australia,AUS,"Sun, 01 Jan 1901 11:00:00 PM",6119
+Australia,AUS,"Sun, 01 Jan 1902 11:00:00 PM",6094
+Australia,AUS,"Sun, 01 Jan 1903 11:00:00 PM",6497
+Australia,AUS,"Sun, 01 Jan 1904 11:00:00 PM",6846
+Australia,AUS,"Sun, 01 Jan 1905 11:00:00 PM",6825
+Australia,AUS,"Sun, 01 Jan 1906 11:00:00 PM",7184
+Australia,AUS,"Sun, 01 Jan 1907 11:00:00 PM",7358
+Australia,AUS,"Sun, 01 Jan 1908 11:00:00 PM",7481
+Australia,AUS,"Sun, 01 Jan 1909 11:00:00 PM",7940
+Australia,AUS,"Sun, 01 Jan 1910 11:00:00 PM",8305
+Australia,AUS,"Sun, 01 Jan 1911 11:00:00 PM",8136
+Australia,AUS,"Sun, 01 Jan 1912 11:00:00 PM",8126
+Australia,AUS,"Sun, 01 Jan 1913 11:00:00 PM",8220
+Australia,AUS,"Sun, 01 Jan 1914 11:00:00 PM",8013
+Australia,AUS,"Sun, 01 Jan 1915 11:00:00 PM",7806
+Australia,AUS,"Sun, 01 Jan 1916 11:00:00 PM",7775
+Australia,AUS,"Sun, 01 Jan 1917 11:00:00 PM",7637
+Australia,AUS,"Sun, 01 Jan 1918 11:00:00 PM",7336
+Australia,AUS,"Sun, 01 Jan 1919 11:00:00 PM",7517
+Australia,AUS,"Sun, 01 Jan 1920 11:00:00 PM",7597
+Australia,AUS,"Sun, 01 Jan 1921 11:00:00 PM",7828
+Australia,AUS,"Sun, 01 Jan 1922 11:00:00 PM",8072
+Australia,AUS,"Sun, 01 Jan 1923 11:00:00 PM",8276
+Australia,AUS,"Sun, 01 Jan 1924 11:00:00 PM",8635
+Australia,AUS,"Sun, 01 Jan 1925 11:00:00 PM",8851
+Australia,AUS,"Sun, 01 Jan 1926 11:00:00 PM",8883
+Australia,AUS,"Sun, 01 Jan 1927 11:00:00 PM",8837
+Australia,AUS,"Sun, 01 Jan 1928 11:00:00 PM",8690
+Australia,AUS,"Sun, 01 Jan 1929 11:00:00 PM",8389
+Australia,AUS,"Sun, 01 Jan 1930 11:00:00 PM",7504
+Australia,AUS,"Sun, 01 Jan 1931 11:00:00 PM",6940
+Australia,AUS,"Sun, 01 Jan 1932 11:00:00 PM",7275
+Australia,AUS,"Sun, 01 Jan 1933 11:00:00 PM",7718
+Australia,AUS,"Sun, 01 Jan 1934 11:00:00 PM",8066
+Australia,AUS,"Sun, 01 Jan 1935 11:00:00 PM",8477
+Australia,AUS,"Sun, 01 Jan 1936 11:00:00 PM",8792
+Australia,AUS,"Sun, 01 Jan 1937 11:00:00 PM",9159
+Australia,AUS,"Sun, 01 Jan 1938 11:00:00 PM",9382
+Australia,AUS,"Sun, 01 Jan 1939 11:00:00 PM",9318
+Australia,AUS,"Sun, 01 Jan 1940 11:00:00 PM",9828
+Australia,AUS,"Sun, 01 Jan 1941 11:00:00 PM",10820
+Australia,AUS,"Sun, 01 Jan 1942 11:00:00 PM",11963
+Australia,AUS,"Sun, 01 Jan 1943 11:00:00 PM",12278
+Australia,AUS,"Sun, 01 Jan 1944 11:00:00 PM",11735
+Australia,AUS,"Sun, 01 Jan 1945 11:00:00 PM",11026
+Australia,AUS,"Sun, 01 Jan 1946 11:00:00 PM",10512
+Australia,AUS,"Sun, 01 Jan 1947 11:00:00 PM",10622
+Australia,AUS,"Sun, 01 Jan 1948 11:00:00 PM",11105
+Australia,AUS,"Sun, 01 Jan 1949 11:00:00 PM",11536
+Australia,AUS,"Sun, 01 Jan 1950 11:00:00 PM",11815
+Australia,AUS,"Sun, 01 Jan 1951 11:00:00 PM",11966
+Australia,AUS,"Sun, 01 Jan 1952 11:00:00 PM",11824
+Australia,AUS,"Sun, 01 Jan 1953 11:00:00 PM",11963
+Australia,AUS,"Sun, 01 Jan 1954 11:00:00 PM",12419
+Australia,AUS,"Sun, 01 Jan 1955 11:00:00 PM",12795
+Australia,AUS,"Sun, 01 Jan 1956 11:00:00 PM",12924
+Australia,AUS,"Sun, 01 Jan 1957 11:00:00 PM",12895
+Australia,AUS,"Sun, 01 Jan 1958 11:00:00 PM",13238
+Australia,AUS,"Sun, 01 Jan 1959 11:00:00 PM",13753
+Australia,AUS,"Sun, 01 Jan 1960 11:00:00 PM",14013
+Australia,AUS,"Sun, 01 Jan 1961 11:00:00 PM",13793
+Australia,AUS,"Sun, 01 Jan 1962 11:00:00 PM",14389
+Australia,AUS,"Sun, 01 Jan 1963 11:00:00 PM",14983
+Australia,AUS,"Sun, 01 Jan 1964 11:00:00 PM",15699
+Australia,AUS,"Sun, 01 Jan 1965 11:00:00 PM",16182
+Australia,AUS,"Sun, 01 Jan 1966 11:00:00 PM",16324
+Australia,AUS,"Sun, 01 Jan 1967 11:00:00 PM",17108
+Australia,AUS,"Sun, 01 Jan 1968 11:00:00 PM",17770
+Australia,AUS,"Sun, 01 Jan 1969 11:00:00 PM",18428
+Australia,AUS,"Sun, 01 Jan 1970 11:00:00 PM",19166
+Australia,AUS,"Sun, 01 Jan 1971 11:00:00 PM",19590
+Australia,AUS,"Sun, 01 Jan 1972 11:00:00 PM",19772
+Australia,AUS,"Sun, 01 Jan 1973 11:00:00 PM",20527
+Australia,AUS,"Sun, 01 Jan 1974 11:00:00 PM",20698
+Australia,AUS,"Sun, 01 Jan 1975 11:00:00 PM",20993
+Australia,AUS,"Sun, 01 Jan 1976 11:00:00 PM",21613
+Australia,AUS,"Sun, 01 Jan 1977 11:00:00 PM",21592
+Australia,AUS,"Sun, 01 Jan 1978 11:00:00 PM",21948
+Australia,AUS,"Sun, 01 Jan 1979 11:00:00 PM",22826
+Australia,AUS,"Sun, 01 Jan 1980 11:00:00 PM",22972
+Australia,AUS,"Sun, 01 Jan 1981 11:00:00 PM",23368
+Australia,AUS,"Sun, 01 Jan 1982 11:00:00 PM",22972
+Australia,AUS,"Sun, 01 Jan 1983 11:00:00 PM",22697
+Australia,AUS,"Sun, 01 Jan 1984 11:00:00 PM",24009
+Australia,AUS,"Sun, 01 Jan 1985 11:00:00 PM",24927
+Australia,AUS,"Sun, 01 Jan 1986 11:00:00 PM",25116
+Australia,AUS,"Sun, 01 Jan 1987 11:00:00 PM",25971
+Australia,AUS,"Sun, 01 Jan 1988 11:00:00 PM",26702
+Australia,AUS,"Sun, 01 Jan 1989 11:00:00 PM",27407
+Australia,AUS,"Sun, 01 Jan 1990 11:00:00 PM",27373
+Australia,AUS,"Sun, 01 Jan 1991 11:00:00 PM",26861.28
+Australia,AUS,"Sun, 01 Jan 1992 11:00:00 PM",27560.18
+Australia,AUS,"Sun, 01 Jan 1993 11:00:00 PM",28622.48
+Australia,AUS,"Sun, 01 Jan 1994 11:00:00 PM",29844.17
+Australia,AUS,"Sun, 01 Jan 1995 11:00:00 PM",30690.06
+Australia,AUS,"Sun, 01 Jan 1996 11:00:00 PM",31740.47
+Australia,AUS,"Sun, 01 Jan 1997 11:00:00 PM",32857.99
+Australia,AUS,"Sun, 01 Jan 1998 11:00:00 PM",34337.14
+Australia,AUS,"Sun, 01 Jan 1999 11:00:00 PM",35551.02
+Australia,AUS,"Sun, 01 Jan 2000 11:00:00 PM",36603.05
+Australia,AUS,"Sun, 01 Jan 2001 11:00:00 PM",37275.99
+Australia,AUS,"Sun, 01 Jan 2002 11:00:00 PM",38567.07
+Australia,AUS,"Sun, 01 Jan 2003 11:00:00 PM",39523.66
+Australia,AUS,"Sun, 01 Jan 2004 11:00:00 PM",40887.73
+Australia,AUS,"Sun, 01 Jan 2005 11:00:00 PM",41904.45
+Australia,AUS,"Sun, 01 Jan 2006 11:00:00 PM",42650.99
+Australia,AUS,"Sun, 01 Jan 2007 11:00:00 PM",44033.58
+Australia,AUS,"Sun, 01 Jan 2008 11:00:00 PM",44421.64
+Australia,AUS,"Sun, 01 Jan 2009 11:00:00 PM",44686.54
+Australia,AUS,"Sun, 01 Jan 2010 11:00:00 PM",45400.22
+Australia,AUS,"Sun, 01 Jan 2011 11:00:00 PM",46132
+Australia,AUS,"Sun, 01 Jan 2012 11:00:00 PM",46999
+Australia,AUS,"Sun, 01 Jan 2013 11:00:00 PM",47250
+Australia,AUS,"Sun, 01 Jan 2014 11:00:00 PM",47867
+Australia,AUS,"Sun, 01 Jan 2015 11:00:00 PM",48357
+Australia,AUS,"Sun, 01 Jan 2016 11:00:00 PM",48845
+Australia,AUS,"Sun, 01 Jan 2017 11:00:00 PM",49265.61
+Australia,AUS,"Sun, 01 Jan 2018 11:00:00 PM",49830.8
+Eastern Europe,,"Sun, 01 Jan 1820 11:00:00 PM",818
+Eastern Europe,,"Sun, 01 Jan 1830 11:00:00 PM",942
+Eastern Europe,,"Sun, 01 Jan 1840 11:00:00 PM",907
+Eastern Europe,,"Sun, 01 Jan 1850 11:00:00 PM",985
+Eastern Europe,,"Sun, 01 Jan 1860 11:00:00 PM",1358
+Eastern Europe,,"Sun, 01 Jan 1870 11:00:00 PM",1575
+Eastern Europe,,"Sun, 01 Jan 1880 11:00:00 PM",1886
+Eastern Europe,,"Sun, 01 Jan 1890 11:00:00 PM",2204
+Eastern Europe,,"Sun, 01 Jan 1900 11:00:00 PM",2700
+Eastern Europe,,"Sun, 01 Jan 1910 11:00:00 PM",2282.57
+Eastern Europe,,"Sun, 01 Jan 1920 11:00:00 PM",1342.73
+Eastern Europe,,"Sun, 01 Jan 1930 11:00:00 PM",2463.72
+Eastern Europe,,"Sun, 01 Jan 1940 11:00:00 PM",3209
+Eastern Europe,,"Sun, 01 Jan 1950 11:00:00 PM",4082.1
+Eastern Europe,,"Sun, 01 Jan 1960 11:00:00 PM",5779.17
+Eastern Europe,,"Sun, 01 Jan 1970 11:00:00 PM",8241.36
+Eastern Europe,,"Sun, 01 Jan 1980 11:00:00 PM",9933.04
+Eastern Europe,,"Sun, 01 Jan 1990 11:00:00 PM",10343.87
+Eastern Europe,,"Sun, 01 Jan 2000 11:00:00 PM",8985.54
+Eastern Europe,,"Sun, 01 Jan 2010 11:00:00 PM",17021.29
+Eastern Europe,,"Sun, 01 Jan 2016 11:00:00 PM",19446.35
+Eastern Europe,,"Sun, 01 Jan 2017 11:00:00 PM",20115.83
+Eastern Europe,,"Sun, 01 Jan 2018 11:00:00 PM",20680.59
+Middle East,,"Sun, 01 Jan 1820 11:00:00 PM",974
+Middle East,,"Sun, 01 Jan 1850 11:00:00 PM",1000
+Middle East,,"Sun, 01 Jan 1870 11:00:00 PM",1165
+Middle East,,"Sun, 01 Jan 1900 11:00:00 PM",1300
+Middle East,,"Sun, 01 Jan 1920 11:00:00 PM",900
+Middle East,,"Sun, 01 Jan 1930 11:00:00 PM",1600
+Middle East,,"Sun, 01 Jan 1940 11:00:00 PM",2146
+Middle East,,"Sun, 01 Jan 1950 11:00:00 PM",2393.03
+Middle East,,"Sun, 01 Jan 1960 11:00:00 PM",3109.81
+Middle East,,"Sun, 01 Jan 1970 11:00:00 PM",4800.61
+Middle East,,"Sun, 01 Jan 1980 11:00:00 PM",6741.69
+Middle East,,"Sun, 01 Jan 1990 11:00:00 PM",6435.13
+Middle East,,"Sun, 01 Jan 2000 11:00:00 PM",9639.64
+Middle East,,"Sun, 01 Jan 2010 11:00:00 PM",16716.33
+Middle East,,"Sun, 01 Jan 2016 11:00:00 PM",18010
+Middle East,,"Sun, 01 Jan 2017 11:00:00 PM",18403.52
+Middle East,,"Sun, 01 Jan 2018 11:00:00 PM",18429.74
+South Africa,ZAF,"Sun, 01 Jan 1700 11:00:00 PM",2715
+South Africa,ZAF,"Sun, 01 Jan 1701 11:00:00 PM",2715
+South Africa,ZAF,"Sun, 01 Jan 1702 11:00:00 PM",2710
+South Africa,ZAF,"Sun, 01 Jan 1703 11:00:00 PM",2581
+South Africa,ZAF,"Sun, 01 Jan 1704 11:00:00 PM",2332
+South Africa,ZAF,"Sun, 01 Jan 1705 11:00:00 PM",2249
+South Africa,ZAF,"Sun, 01 Jan 1706 11:00:00 PM",2844
+South Africa,ZAF,"Sun, 01 Jan 1707 11:00:00 PM",3145
+South Africa,ZAF,"Sun, 01 Jan 1708 11:00:00 PM",3366
+South Africa,ZAF,"Sun, 01 Jan 1709 11:00:00 PM",3060
+South Africa,ZAF,"Sun, 01 Jan 1710 11:00:00 PM",2920
+South Africa,ZAF,"Sun, 01 Jan 1711 11:00:00 PM",2149
+South Africa,ZAF,"Sun, 01 Jan 1712 11:00:00 PM",1835
+South Africa,ZAF,"Sun, 01 Jan 1713 11:00:00 PM",2061
+South Africa,ZAF,"Sun, 01 Jan 1714 11:00:00 PM",2314
+South Africa,ZAF,"Sun, 01 Jan 1715 11:00:00 PM",2284
+South Africa,ZAF,"Sun, 01 Jan 1716 11:00:00 PM",2334
+South Africa,ZAF,"Sun, 01 Jan 1717 11:00:00 PM",2426
+South Africa,ZAF,"Sun, 01 Jan 1718 11:00:00 PM",2789
+South Africa,ZAF,"Sun, 01 Jan 1719 11:00:00 PM",2222
+South Africa,ZAF,"Sun, 01 Jan 1720 11:00:00 PM",2600
+South Africa,ZAF,"Sun, 01 Jan 1721 11:00:00 PM",2609
+South Africa,ZAF,"Sun, 01 Jan 1722 11:00:00 PM",2673
+South Africa,ZAF,"Sun, 01 Jan 1723 11:00:00 PM",2829
+South Africa,ZAF,"Sun, 01 Jan 1724 11:00:00 PM",2813
+South Africa,ZAF,"Sun, 01 Jan 1725 11:00:00 PM",2308
+South Africa,ZAF,"Sun, 01 Jan 1726 11:00:00 PM",2126
+South Africa,ZAF,"Sun, 01 Jan 1727 11:00:00 PM",2219
+South Africa,ZAF,"Sun, 01 Jan 1728 11:00:00 PM",2184
+South Africa,ZAF,"Sun, 01 Jan 1729 11:00:00 PM",2351
+South Africa,ZAF,"Sun, 01 Jan 1730 11:00:00 PM",2308
+South Africa,ZAF,"Sun, 01 Jan 1731 11:00:00 PM",2461
+South Africa,ZAF,"Sun, 01 Jan 1732 11:00:00 PM",2377
+South Africa,ZAF,"Sun, 01 Jan 1733 11:00:00 PM",2187
+South Africa,ZAF,"Sun, 01 Jan 1734 11:00:00 PM",1973
+South Africa,ZAF,"Sun, 01 Jan 1735 11:00:00 PM",1980
+South Africa,ZAF,"Sun, 01 Jan 1736 11:00:00 PM",1833
+South Africa,ZAF,"Sun, 01 Jan 1737 11:00:00 PM",1989
+South Africa,ZAF,"Sun, 01 Jan 1738 11:00:00 PM",2047
+South Africa,ZAF,"Sun, 01 Jan 1739 11:00:00 PM",1934
+South Africa,ZAF,"Sun, 01 Jan 1740 11:00:00 PM",2023
+South Africa,ZAF,"Sun, 01 Jan 1741 11:00:00 PM",2236
+South Africa,ZAF,"Sun, 01 Jan 1742 11:00:00 PM",2211
+South Africa,ZAF,"Sun, 01 Jan 1743 11:00:00 PM",2445
+South Africa,ZAF,"Sun, 01 Jan 1744 11:00:00 PM",2342
+South Africa,ZAF,"Sun, 01 Jan 1745 11:00:00 PM",2434
+South Africa,ZAF,"Sun, 01 Jan 1746 11:00:00 PM",2447
+South Africa,ZAF,"Sun, 01 Jan 1747 11:00:00 PM",2632
+South Africa,ZAF,"Sun, 01 Jan 1748 11:00:00 PM",2373
+South Africa,ZAF,"Sun, 01 Jan 1749 11:00:00 PM",2402
+South Africa,ZAF,"Sun, 01 Jan 1750 11:00:00 PM",2697
+South Africa,ZAF,"Sun, 01 Jan 1751 11:00:00 PM",2644
+South Africa,ZAF,"Sun, 01 Jan 1752 11:00:00 PM",2625
+South Africa,ZAF,"Sun, 01 Jan 1753 11:00:00 PM",2560
+South Africa,ZAF,"Sun, 01 Jan 1754 11:00:00 PM",2342
+South Africa,ZAF,"Sun, 01 Jan 1755 11:00:00 PM",2455
+South Africa,ZAF,"Sun, 01 Jan 1756 11:00:00 PM",2495
+South Africa,ZAF,"Sun, 01 Jan 1757 11:00:00 PM",2165
+South Africa,ZAF,"Sun, 01 Jan 1758 11:00:00 PM",2130
+South Africa,ZAF,"Sun, 01 Jan 1759 11:00:00 PM",2040
+South Africa,ZAF,"Sun, 01 Jan 1760 11:00:00 PM",2005
+South Africa,ZAF,"Sun, 01 Jan 1761 11:00:00 PM",2071
+South Africa,ZAF,"Sun, 01 Jan 1762 11:00:00 PM",1852
+South Africa,ZAF,"Sun, 01 Jan 1763 11:00:00 PM",2160
+South Africa,ZAF,"Sun, 01 Jan 1764 11:00:00 PM",2185
+South Africa,ZAF,"Sun, 01 Jan 1765 11:00:00 PM",2225
+South Africa,ZAF,"Sun, 01 Jan 1766 11:00:00 PM",2216
+South Africa,ZAF,"Sun, 01 Jan 1767 11:00:00 PM",2177
+South Africa,ZAF,"Sun, 01 Jan 1768 11:00:00 PM",2225
+South Africa,ZAF,"Sun, 01 Jan 1769 11:00:00 PM",2246
+South Africa,ZAF,"Sun, 01 Jan 1770 11:00:00 PM",2294
+South Africa,ZAF,"Sun, 01 Jan 1771 11:00:00 PM",2283
+South Africa,ZAF,"Sun, 01 Jan 1772 11:00:00 PM",2128
+South Africa,ZAF,"Sun, 01 Jan 1773 11:00:00 PM",2562
+South Africa,ZAF,"Sun, 01 Jan 1774 11:00:00 PM",2533
+South Africa,ZAF,"Sun, 01 Jan 1775 11:00:00 PM",2429
+South Africa,ZAF,"Sun, 01 Jan 1776 11:00:00 PM",2208
+South Africa,ZAF,"Sun, 01 Jan 1777 11:00:00 PM",1824
+South Africa,ZAF,"Sun, 01 Jan 1778 11:00:00 PM",1669
+South Africa,ZAF,"Sun, 01 Jan 1779 11:00:00 PM",1626
+South Africa,ZAF,"Sun, 01 Jan 1780 11:00:00 PM",1655
+South Africa,ZAF,"Sun, 01 Jan 1781 11:00:00 PM",1248
+South Africa,ZAF,"Sun, 01 Jan 1782 11:00:00 PM",1487
+South Africa,ZAF,"Sun, 01 Jan 1783 11:00:00 PM",1573
+South Africa,ZAF,"Sun, 01 Jan 1784 11:00:00 PM",1808
+South Africa,ZAF,"Sun, 01 Jan 1785 11:00:00 PM",1943
+South Africa,ZAF,"Sun, 01 Jan 1786 11:00:00 PM",1524
+South Africa,ZAF,"Sun, 01 Jan 1787 11:00:00 PM",2122
+South Africa,ZAF,"Sun, 01 Jan 1788 11:00:00 PM",1972
+South Africa,ZAF,"Sun, 01 Jan 1789 11:00:00 PM",1666
+South Africa,ZAF,"Sun, 01 Jan 1790 11:00:00 PM",1612
+South Africa,ZAF,"Sun, 01 Jan 1791 11:00:00 PM",1627
+South Africa,ZAF,"Sun, 01 Jan 1792 11:00:00 PM",1387
+South Africa,ZAF,"Sun, 01 Jan 1793 11:00:00 PM",1529
+South Africa,ZAF,"Sun, 01 Jan 1800 11:00:00 PM",1529
+South Africa,ZAF,"Sun, 01 Jan 1804 11:00:00 PM",1462
+South Africa,ZAF,"Sun, 01 Jan 1805 11:00:00 PM",1385
+South Africa,ZAF,"Sun, 01 Jan 1806 11:00:00 PM",1385
+South Africa,ZAF,"Sun, 01 Jan 1807 11:00:00 PM",1502
+South Africa,ZAF,"Sun, 01 Jan 1808 11:00:00 PM",1315
+South Africa,ZAF,"Sun, 01 Jan 1809 11:00:00 PM",1285
+South Africa,ZAF,"Sun, 01 Jan 1810 11:00:00 PM",1420
+South Africa,ZAF,"Sun, 01 Jan 1811 11:00:00 PM",1127
+South Africa,ZAF,"Sun, 01 Jan 1812 11:00:00 PM",1141
+South Africa,ZAF,"Sun, 01 Jan 1813 11:00:00 PM",1438
+South Africa,ZAF,"Sun, 01 Jan 1814 11:00:00 PM",1455
+South Africa,ZAF,"Sun, 01 Jan 1815 11:00:00 PM",1210
+South Africa,ZAF,"Sun, 01 Jan 1816 11:00:00 PM",1261
+South Africa,ZAF,"Sun, 01 Jan 1817 11:00:00 PM",1310
+South Africa,ZAF,"Sun, 01 Jan 1818 11:00:00 PM",1390
+South Africa,ZAF,"Sun, 01 Jan 1819 11:00:00 PM",1202
+South Africa,ZAF,"Sun, 01 Jan 1820 11:00:00 PM",1188
+South Africa,ZAF,"Sun, 01 Jan 1821 11:00:00 PM",1403
+South Africa,ZAF,"Sun, 01 Jan 1822 11:00:00 PM",1309
+South Africa,ZAF,"Sun, 01 Jan 1826 11:00:00 PM",1353
+South Africa,ZAF,"Sun, 01 Jan 1829 11:00:00 PM",1372
+South Africa,ZAF,"Sun, 01 Jan 1831 11:00:00 PM",1243
+South Africa,ZAF,"Sun, 01 Jan 1840 11:00:00 PM",1173
+South Africa,ZAF,"Sun, 01 Jan 1843 11:00:00 PM",1092
+South Africa,ZAF,"Sun, 01 Jan 1847 11:00:00 PM",937
+South Africa,ZAF,"Sun, 01 Jan 1850 11:00:00 PM",1042
+South Africa,ZAF,"Sun, 01 Jan 1851 11:00:00 PM",1234
+South Africa,ZAF,"Sun, 01 Jan 1852 11:00:00 PM",1294
+South Africa,ZAF,"Sun, 01 Jan 1853 11:00:00 PM",1390
+South Africa,ZAF,"Sun, 01 Jan 1854 11:00:00 PM",1352
+South Africa,ZAF,"Sun, 01 Jan 1855 11:00:00 PM",1451
+South Africa,ZAF,"Sun, 01 Jan 1856 11:00:00 PM",1168
+South Africa,ZAF,"Sun, 01 Jan 1857 11:00:00 PM",1384
+South Africa,ZAF,"Sun, 01 Jan 1858 11:00:00 PM",1210
+South Africa,ZAF,"Sun, 01 Jan 1859 11:00:00 PM",1250
+South Africa,ZAF,"Sun, 01 Jan 1860 11:00:00 PM",1294
+South Africa,ZAF,"Sun, 01 Jan 1861 11:00:00 PM",1218
+South Africa,ZAF,"Sun, 01 Jan 1862 11:00:00 PM",897
+South Africa,ZAF,"Sun, 01 Jan 1863 11:00:00 PM",960
+South Africa,ZAF,"Sun, 01 Jan 1864 11:00:00 PM",1339
+South Africa,ZAF,"Sun, 01 Jan 1865 11:00:00 PM",985
+South Africa,ZAF,"Sun, 01 Jan 1866 11:00:00 PM",1025
+South Africa,ZAF,"Sun, 01 Jan 1867 11:00:00 PM",1213
+South Africa,ZAF,"Sun, 01 Jan 1868 11:00:00 PM",1226
+South Africa,ZAF,"Sun, 01 Jan 1869 11:00:00 PM",1211
+South Africa,ZAF,"Sun, 01 Jan 1870 11:00:00 PM",1286
+South Africa,ZAF,"Sun, 01 Jan 1871 11:00:00 PM",1290
+South Africa,ZAF,"Sun, 01 Jan 1872 11:00:00 PM",1902
+South Africa,ZAF,"Sun, 01 Jan 1873 11:00:00 PM",1639
+South Africa,ZAF,"Sun, 01 Jan 1874 11:00:00 PM",1562
+South Africa,ZAF,"Sun, 01 Jan 1875 11:00:00 PM",1741
+South Africa,ZAF,"Sun, 01 Jan 1876 11:00:00 PM",1946
+South Africa,ZAF,"Sun, 01 Jan 1877 11:00:00 PM",1835
+South Africa,ZAF,"Sun, 01 Jan 1878 11:00:00 PM",1790
+South Africa,ZAF,"Sun, 01 Jan 1879 11:00:00 PM",1985
+South Africa,ZAF,"Sun, 01 Jan 1880 11:00:00 PM",2294
+South Africa,ZAF,"Sun, 01 Jan 1881 11:00:00 PM",2168
+South Africa,ZAF,"Sun, 01 Jan 1882 11:00:00 PM",2053
+South Africa,ZAF,"Sun, 01 Jan 1883 11:00:00 PM",1578
+South Africa,ZAF,"Sun, 01 Jan 1884 11:00:00 PM",1430
+South Africa,ZAF,"Sun, 01 Jan 1885 11:00:00 PM",1208
+South Africa,ZAF,"Sun, 01 Jan 1886 11:00:00 PM",1427
+South Africa,ZAF,"Sun, 01 Jan 1887 11:00:00 PM",1627
+South Africa,ZAF,"Sun, 01 Jan 1888 11:00:00 PM",1836
+South Africa,ZAF,"Sun, 01 Jan 1889 11:00:00 PM",1817
+South Africa,ZAF,"Sun, 01 Jan 1890 11:00:00 PM",1830
+South Africa,ZAF,"Sun, 01 Jan 1891 11:00:00 PM",1906
+South Africa,ZAF,"Sun, 01 Jan 1892 11:00:00 PM",1860
+South Africa,ZAF,"Sun, 01 Jan 1893 11:00:00 PM",1843
+South Africa,ZAF,"Sun, 01 Jan 1894 11:00:00 PM",1790
+South Africa,ZAF,"Sun, 01 Jan 1895 11:00:00 PM",2061
+South Africa,ZAF,"Sun, 01 Jan 1896 11:00:00 PM",2153
+South Africa,ZAF,"Sun, 01 Jan 1897 11:00:00 PM",2015
+South Africa,ZAF,"Sun, 01 Jan 1898 11:00:00 PM",2418
+South Africa,ZAF,"Sun, 01 Jan 1899 11:00:00 PM",2123
+South Africa,ZAF,"Sun, 01 Jan 1900 11:00:00 PM",1494
+South Africa,ZAF,"Sun, 01 Jan 1901 11:00:00 PM",1608
+South Africa,ZAF,"Sun, 01 Jan 1902 11:00:00 PM",1919
+South Africa,ZAF,"Sun, 01 Jan 1903 11:00:00 PM",2571
+South Africa,ZAF,"Sun, 01 Jan 1904 11:00:00 PM",2571
+South Africa,ZAF,"Sun, 01 Jan 1905 11:00:00 PM",2745
+South Africa,ZAF,"Sun, 01 Jan 1906 11:00:00 PM",2963
+South Africa,ZAF,"Sun, 01 Jan 1907 11:00:00 PM",2907
+South Africa,ZAF,"Sun, 01 Jan 1908 11:00:00 PM",2283
+South Africa,ZAF,"Sun, 01 Jan 1909 11:00:00 PM",2391
+South Africa,ZAF,"Sun, 01 Jan 1910 11:00:00 PM",1835
+South Africa,ZAF,"Sun, 01 Jan 1918 11:00:00 PM",1854
+South Africa,ZAF,"Sun, 01 Jan 1924 11:00:00 PM",2037
+South Africa,ZAF,"Sun, 01 Jan 1925 11:00:00 PM",2171
+South Africa,ZAF,"Sun, 01 Jan 1926 11:00:00 PM",2228
+South Africa,ZAF,"Sun, 01 Jan 1927 11:00:00 PM",2271
+South Africa,ZAF,"Sun, 01 Jan 1928 11:00:00 PM",2444
+South Africa,ZAF,"Sun, 01 Jan 1929 11:00:00 PM",2386
+South Africa,ZAF,"Sun, 01 Jan 1930 11:00:00 PM",2252
+South Africa,ZAF,"Sun, 01 Jan 1931 11:00:00 PM",2128
+South Africa,ZAF,"Sun, 01 Jan 1932 11:00:00 PM",2047
+South Africa,ZAF,"Sun, 01 Jan 1933 11:00:00 PM",2268
+South Africa,ZAF,"Sun, 01 Jan 1934 11:00:00 PM",2514
+South Africa,ZAF,"Sun, 01 Jan 1935 11:00:00 PM",2785
+South Africa,ZAF,"Sun, 01 Jan 1936 11:00:00 PM",3048
+South Africa,ZAF,"Sun, 01 Jan 1937 11:00:00 PM",3249
+South Africa,ZAF,"Sun, 01 Jan 1938 11:00:00 PM",3118
+South Africa,ZAF,"Sun, 01 Jan 1939 11:00:00 PM",3272
+South Africa,ZAF,"Sun, 01 Jan 1940 11:00:00 PM",3419
+South Africa,ZAF,"Sun, 01 Jan 1941 11:00:00 PM",3510
+South Africa,ZAF,"Sun, 01 Jan 1942 11:00:00 PM",3548
+South Africa,ZAF,"Sun, 01 Jan 1943 11:00:00 PM",3558
+South Africa,ZAF,"Sun, 01 Jan 1944 11:00:00 PM",3610
+South Africa,ZAF,"Sun, 01 Jan 1945 11:00:00 PM",3631
+South Africa,ZAF,"Sun, 01 Jan 1946 11:00:00 PM",3684
+South Africa,ZAF,"Sun, 01 Jan 1947 11:00:00 PM",3647
+South Africa,ZAF,"Sun, 01 Jan 1948 11:00:00 PM",3848
+South Africa,ZAF,"Sun, 01 Jan 1949 11:00:00 PM",3819
+South Africa,ZAF,"Sun, 01 Jan 1950 11:00:00 PM",4041
+South Africa,ZAF,"Sun, 01 Jan 1951 11:00:00 PM",4130
+South Africa,ZAF,"Sun, 01 Jan 1952 11:00:00 PM",4175
+South Africa,ZAF,"Sun, 01 Jan 1953 11:00:00 PM",4264
+South Africa,ZAF,"Sun, 01 Jan 1954 11:00:00 PM",4404
+South Africa,ZAF,"Sun, 01 Jan 1955 11:00:00 PM",4511
+South Africa,ZAF,"Sun, 01 Jan 1956 11:00:00 PM",4645
+South Africa,ZAF,"Sun, 01 Jan 1957 11:00:00 PM",4704
+South Africa,ZAF,"Sun, 01 Jan 1958 11:00:00 PM",4685
+South Africa,ZAF,"Sun, 01 Jan 1959 11:00:00 PM",4774
+South Africa,ZAF,"Sun, 01 Jan 1960 11:00:00 PM",4847
+South Africa,ZAF,"Sun, 01 Jan 1961 11:00:00 PM",4929
+South Africa,ZAF,"Sun, 01 Jan 1962 11:00:00 PM",5067
+South Africa,ZAF,"Sun, 01 Jan 1963 11:00:00 PM",5294
+South Africa,ZAF,"Sun, 01 Jan 1964 11:00:00 PM",5499
+South Africa,ZAF,"Sun, 01 Jan 1965 11:00:00 PM",5673
+South Africa,ZAF,"Sun, 01 Jan 1966 11:00:00 PM",5762
+South Africa,ZAF,"Sun, 01 Jan 1967 11:00:00 PM",5993
+South Africa,ZAF,"Sun, 01 Jan 1968 11:00:00 PM",6087
+South Africa,ZAF,"Sun, 01 Jan 1969 11:00:00 PM",6290
+South Africa,ZAF,"Sun, 01 Jan 1970 11:00:00 PM",6448
+South Africa,ZAF,"Sun, 01 Jan 1971 11:00:00 PM",6591
+South Africa,ZAF,"Sun, 01 Jan 1972 11:00:00 PM",6550
+South Africa,ZAF,"Sun, 01 Jan 1973 11:00:00 PM",6655
+South Africa,ZAF,"Sun, 01 Jan 1974 11:00:00 PM",6853
+South Africa,ZAF,"Sun, 01 Jan 1975 11:00:00 PM",6808
+South Africa,ZAF,"Sun, 01 Jan 1976 11:00:00 PM",6802
+South Africa,ZAF,"Sun, 01 Jan 1977 11:00:00 PM",6623
+South Africa,ZAF,"Sun, 01 Jan 1978 11:00:00 PM",6653
+South Africa,ZAF,"Sun, 01 Jan 1979 11:00:00 PM",6746
+South Africa,ZAF,"Sun, 01 Jan 1980 11:00:00 PM",6998
+South Africa,ZAF,"Sun, 01 Jan 1981 11:00:00 PM",7141
+South Africa,ZAF,"Sun, 01 Jan 1982 11:00:00 PM",6891
+South Africa,ZAF,"Sun, 01 Jan 1983 11:00:00 PM",6554
+South Africa,ZAF,"Sun, 01 Jan 1984 11:00:00 PM",6672
+South Africa,ZAF,"Sun, 01 Jan 1985 11:00:00 PM",6385
+South Africa,ZAF,"Sun, 01 Jan 1986 11:00:00 PM",6236
+South Africa,ZAF,"Sun, 01 Jan 1987 11:00:00 PM",6212
+South Africa,ZAF,"Sun, 01 Jan 1988 11:00:00 PM",6319
+South Africa,ZAF,"Sun, 01 Jan 1989 11:00:00 PM",6306
+South Africa,ZAF,"Sun, 01 Jan 1990 11:00:00 PM",6111
+South Africa,ZAF,"Sun, 01 Jan 1991 11:00:00 PM",6034.9
+South Africa,ZAF,"Sun, 01 Jan 1992 11:00:00 PM",5901.98
+South Africa,ZAF,"Sun, 01 Jan 1993 11:00:00 PM",5965.91
+South Africa,ZAF,"Sun, 01 Jan 1994 11:00:00 PM",6172.97
+South Africa,ZAF,"Sun, 01 Jan 1995 11:00:00 PM",6406.43
+South Africa,ZAF,"Sun, 01 Jan 1996 11:00:00 PM",6725.79
+South Africa,ZAF,"Sun, 01 Jan 1997 11:00:00 PM",6950.47
+South Africa,ZAF,"Sun, 01 Jan 1998 11:00:00 PM",7024.3
+South Africa,ZAF,"Sun, 01 Jan 1999 11:00:00 PM",7234.29
+South Africa,ZAF,"Sun, 01 Jan 2000 11:00:00 PM",7582.78
+South Africa,ZAF,"Sun, 01 Jan 2001 11:00:00 PM",7839.63
+South Africa,ZAF,"Sun, 01 Jan 2002 11:00:00 PM",8171.21
+South Africa,ZAF,"Sun, 01 Jan 2003 11:00:00 PM",8451.45
+South Africa,ZAF,"Sun, 01 Jan 2004 11:00:00 PM",8877.92
+South Africa,ZAF,"Sun, 01 Jan 2005 11:00:00 PM",9393.69
+South Africa,ZAF,"Sun, 01 Jan 2006 11:00:00 PM",9978.47
+South Africa,ZAF,"Sun, 01 Jan 2007 11:00:00 PM",10576.29
+South Africa,ZAF,"Sun, 01 Jan 2008 11:00:00 PM",10977.15
+South Africa,ZAF,"Sun, 01 Jan 2009 11:00:00 PM",10873.05
+South Africa,ZAF,"Sun, 01 Jan 2010 11:00:00 PM",11318.6
+South Africa,ZAF,"Sun, 01 Jan 2011 11:00:00 PM",11838
+South Africa,ZAF,"Sun, 01 Jan 2012 11:00:00 PM",11992
+South Africa,ZAF,"Sun, 01 Jan 2013 11:00:00 PM",12171
+South Africa,ZAF,"Sun, 01 Jan 2014 11:00:00 PM",12242
+South Africa,ZAF,"Sun, 01 Jan 2015 11:00:00 PM",12246
+South Africa,ZAF,"Sun, 01 Jan 2016 11:00:00 PM",12139
+South Africa,ZAF,"Sun, 01 Jan 2017 11:00:00 PM",12189.36
+South Africa,ZAF,"Sun, 01 Jan 2018 11:00:00 PM",12165.79
+South and South-East Asia,,"Sun, 01 Jan 1820 11:00:00 PM",929
+South and South-East Asia,,"Sun, 01 Jan 1850 11:00:00 PM",929
+South and South-East Asia,,"Sun, 01 Jan 1870 11:00:00 PM",850.35
+South and South-East Asia,,"Sun, 01 Jan 1890 11:00:00 PM",951
+South and South-East Asia,,"Sun, 01 Jan 1900 11:00:00 PM",994.42
+South and South-East Asia,,"Sun, 01 Jan 1910 11:00:00 PM",1143.12
+South and South-East Asia,,"Sun, 01 Jan 1920 11:00:00 PM",1116.83
+South and South-East Asia,,"Sun, 01 Jan 1930 11:00:00 PM",1299.24
+South and South-East Asia,,"Sun, 01 Jan 1940 11:00:00 PM",1235
+South and South-East Asia,,"Sun, 01 Jan 1950 11:00:00 PM",1069.71
+South and South-East Asia,,"Sun, 01 Jan 1960 11:00:00 PM",1294.93
+South and South-East Asia,,"Sun, 01 Jan 1970 11:00:00 PM",1545.88
+South and South-East Asia,,"Sun, 01 Jan 1980 11:00:00 PM",1897.43
+South and South-East Asia,,"Sun, 01 Jan 1990 11:00:00 PM",2573.68
+South and South-East Asia,,"Sun, 01 Jan 2000 11:00:00 PM",3437.29
+South and South-East Asia,,"Sun, 01 Jan 2010 11:00:00 PM",5366.59
+South and South-East Asia,,"Sun, 01 Jan 2016 11:00:00 PM",6991.33
+South and South-East Asia,,"Sun, 01 Jan 2017 11:00:00 PM",7306.07
+South and South-East Asia,,"Sun, 01 Jan 2018 11:00:00 PM",7648.66
+Sub-Sahara Africa,,"Sun, 01 Jan 1820 11:00:00 PM",800
+Sub-Sahara Africa,,"Sun, 01 Jan 1850 11:00:00 PM",800
+Sub-Sahara Africa,,"Sun, 01 Jan 1870 11:00:00 PM",800
+Sub-Sahara Africa,,"Sun, 01 Jan 1900 11:00:00 PM",850
+Sub-Sahara Africa,,"Sun, 01 Jan 1920 11:00:00 PM",950
+Sub-Sahara Africa,,"Sun, 01 Jan 1940 11:00:00 PM",1100
+Sub-Sahara Africa,,"Sun, 01 Jan 1950 11:00:00 PM",1322.69
+Sub-Sahara Africa,,"Sun, 01 Jan 1960 11:00:00 PM",1574.23
+Sub-Sahara Africa,,"Sun, 01 Jan 1970 11:00:00 PM",1957.64
+Sub-Sahara Africa,,"Sun, 01 Jan 1980 11:00:00 PM",2025.76
+Sub-Sahara Africa,,"Sun, 01 Jan 1990 11:00:00 PM",1800.78
+Sub-Sahara Africa,,"Sun, 01 Jan 2000 11:00:00 PM",1981.22
+Sub-Sahara Africa,,"Sun, 01 Jan 2010 11:00:00 PM",3155.57
+Sub-Sahara Africa,,"Sun, 01 Jan 2016 11:00:00 PM",3491.18
+Sub-Sahara Africa,,"Sun, 01 Jan 2017 11:00:00 PM",3524.23
+Sub-Sahara Africa,,"Sun, 01 Jan 2018 11:00:00 PM",3532.37
+United States,USA,"Sun, 01 Jan 1650 11:00:00 PM",897
+United States,USA,"Sun, 01 Jan 1720 11:00:00 PM",1768.99
+United States,USA,"Sun, 01 Jan 1775 11:00:00 PM",2419
+United States,USA,"Sun, 01 Jan 1800 11:00:00 PM",2545.49
+United States,USA,"Sun, 01 Jan 1801 11:00:00 PM",2591.77
+United States,USA,"Sun, 01 Jan 1802 11:00:00 PM",2635.48
+United States,USA,"Sun, 01 Jan 1803 11:00:00 PM",2590.48
+United States,USA,"Sun, 01 Jan 1804 11:00:00 PM",2587.91
+United States,USA,"Sun, 01 Jan 1805 11:00:00 PM",2643.19
+United States,USA,"Sun, 01 Jan 1806 11:00:00 PM",2690.76
+United States,USA,"Sun, 01 Jan 1807 11:00:00 PM",2717.76
+United States,USA,"Sun, 01 Jan 1808 11:00:00 PM",2526.2
+United States,USA,"Sun, 01 Jan 1809 11:00:00 PM",2652.19
+United States,USA,"Sun, 01 Jan 1810 11:00:00 PM",2725.47
+United States,USA,"Sun, 01 Jan 1811 11:00:00 PM",2780.75
+United States,USA,"Sun, 01 Jan 1812 11:00:00 PM",2731.9
+United States,USA,"Sun, 01 Jan 1813 11:00:00 PM",2762.75
+United States,USA,"Sun, 01 Jan 1814 11:00:00 PM",2815.46
+United States,USA,"Sun, 01 Jan 1815 11:00:00 PM",2803.89
+United States,USA,"Sun, 01 Jan 1816 11:00:00 PM",2690.76
+United States,USA,"Sun, 01 Jan 1817 11:00:00 PM",2688.19
+United States,USA,"Sun, 01 Jan 1818 11:00:00 PM",2694.62
+United States,USA,"Sun, 01 Jan 1819 11:00:00 PM",2690.76
+United States,USA,"Sun, 01 Jan 1820 11:00:00 PM",2674.05
+United States,USA,"Sun, 01 Jan 1821 11:00:00 PM",2715.19
+United States,USA,"Sun, 01 Jan 1822 11:00:00 PM",2791.04
+United States,USA,"Sun, 01 Jan 1823 11:00:00 PM",2760.18
+United States,USA,"Sun, 01 Jan 1824 11:00:00 PM",2836.03
+United States,USA,"Sun, 01 Jan 1825 11:00:00 PM",2897.74
+United States,USA,"Sun, 01 Jan 1826 11:00:00 PM",2918.31
+United States,USA,"Sun, 01 Jan 1827 11:00:00 PM",2929.88
+United States,USA,"Sun, 01 Jan 1828 11:00:00 PM",2929.88
+United States,USA,"Sun, 01 Jan 1829 11:00:00 PM",2833.46
+United States,USA,"Sun, 01 Jan 1830 11:00:00 PM",3039.16
+United States,USA,"Sun, 01 Jan 1831 11:00:00 PM",3225.57
+United States,USA,"Sun, 01 Jan 1832 11:00:00 PM",3342.56
+United States,USA,"Sun, 01 Jan 1833 11:00:00 PM",3459.55
+United States,USA,"Sun, 01 Jan 1834 11:00:00 PM",3294.99
+United States,USA,"Sun, 01 Jan 1835 11:00:00 PM",3419.7
+United States,USA,"Sun, 01 Jan 1836 11:00:00 PM",3469.83
+United States,USA,"Sun, 01 Jan 1837 11:00:00 PM",3360.56
+United States,USA,"Sun, 01 Jan 1838 11:00:00 PM",3329.7
+United States,USA,"Sun, 01 Jan 1839 11:00:00 PM",3491.69
+United States,USA,"Sun, 01 Jan 1840 11:00:00 PM",3319.42
+United States,USA,"Sun, 01 Jan 1841 11:00:00 PM",3252.57
+United States,USA,"Sun, 01 Jan 1842 11:00:00 PM",3223
+United States,USA,"Sun, 01 Jan 1843 11:00:00 PM",3274.42
+United States,USA,"Sun, 01 Jan 1844 11:00:00 PM",3453.12
+United States,USA,"Sun, 01 Jan 1845 11:00:00 PM",3505.83
+United States,USA,"Sun, 01 Jan 1846 11:00:00 PM",3526.4
+United States,USA,"Sun, 01 Jan 1847 11:00:00 PM",3618.96
+United States,USA,"Sun, 01 Jan 1848 11:00:00 PM",3712.81
+United States,USA,"Sun, 01 Jan 1849 11:00:00 PM",3616.39
+United States,USA,"Sun, 01 Jan 1850 11:00:00 PM",3631.82
+United States,USA,"Sun, 01 Jan 1851 11:00:00 PM",3778.38
+United States,USA,"Sun, 01 Jan 1852 11:00:00 PM",3971.22
+United States,USA,"Sun, 01 Jan 1853 11:00:00 PM",4242.48
+United States,USA,"Sun, 01 Jan 1854 11:00:00 PM",4254.05
+United States,USA,"Sun, 01 Jan 1855 11:00:00 PM",4161.49
+United States,USA,"Sun, 01 Jan 1856 11:00:00 PM",4247.62
+United States,USA,"Sun, 01 Jan 1857 11:00:00 PM",4156.34
+United States,USA,"Sun, 01 Jan 1858 11:00:00 PM",4176.91
+United States,USA,"Sun, 01 Jan 1859 11:00:00 PM",4288.76
+United States,USA,"Sun, 01 Jan 1860 11:00:00 PM",4401.89
+United States,USA,"Sun, 01 Jan 1861 11:00:00 PM",4311.9
+United States,USA,"Sun, 01 Jan 1862 11:00:00 PM",4446.89
+United States,USA,"Sun, 01 Jan 1863 11:00:00 PM",4733.58
+United States,USA,"Sun, 01 Jan 1864 11:00:00 PM",4889.14
+United States,USA,"Sun, 01 Jan 1865 11:00:00 PM",4637.16
+United States,USA,"Sun, 01 Jan 1866 11:00:00 PM",4599.88
+United States,USA,"Sun, 01 Jan 1867 11:00:00 PM",4751.58
+United States,USA,"Sun, 01 Jan 1868 11:00:00 PM",4815.86
+United States,USA,"Sun, 01 Jan 1869 11:00:00 PM",4943.13
+United States,USA,"Sun, 01 Jan 1870 11:00:00 PM",4803
+United States,USA,"Sun, 01 Jan 1871 11:00:00 PM",4918.71
+United States,USA,"Sun, 01 Jan 1872 11:00:00 PM",4991.98
+United States,USA,"Sun, 01 Jan 1873 11:00:00 PM",5116.69
+United States,USA,"Sun, 01 Jan 1874 11:00:00 PM",4964.99
+United States,USA,"Sun, 01 Jan 1875 11:00:00 PM",5105.12
+United States,USA,"Sun, 01 Jan 1876 11:00:00 PM",5049.84
+United States,USA,"Sun, 01 Jan 1877 11:00:00 PM",5098.69
+United States,USA,"Sun, 01 Jan 1878 11:00:00 PM",5198.97
+United States,USA,"Sun, 01 Jan 1879 11:00:00 PM",5715.78
+United States,USA,"Sun, 01 Jan 1880 11:00:00 PM",6255.73
+United States,USA,"Sun, 01 Jan 1881 11:00:00 PM",6317.44
+United States,USA,"Sun, 01 Jan 1882 11:00:00 PM",6557.85
+United States,USA,"Sun, 01 Jan 1883 11:00:00 PM",6559.13
+United States,USA,"Sun, 01 Jan 1884 11:00:00 PM",6523.13
+United States,USA,"Sun, 01 Jan 1885 11:00:00 PM",6424.14
+United States,USA,"Sun, 01 Jan 1886 11:00:00 PM",6471.71
+United States,USA,"Sun, 01 Jan 1887 11:00:00 PM",6616.98
+United States,USA,"Sun, 01 Jan 1888 11:00:00 PM",6447.28
+United States,USA,"Sun, 01 Jan 1889 11:00:00 PM",6705.69
+United States,USA,"Sun, 01 Jan 1890 11:00:00 PM",6664.55
+United States,USA,"Sun, 01 Jan 1891 11:00:00 PM",6811.11
+United States,USA,"Sun, 01 Jan 1892 11:00:00 PM",7324.06
+United States,USA,"Sun, 01 Jan 1893 11:00:00 PM",6834.25
+United States,USA,"Sun, 01 Jan 1894 11:00:00 PM",6510.28
+United States,USA,"Sun, 01 Jan 1895 11:00:00 PM",7159.51
+United States,USA,"Sun, 01 Jan 1896 11:00:00 PM",6885.67
+United States,USA,"Sun, 01 Jan 1897 11:00:00 PM",7406.34
+United States,USA,"Sun, 01 Jan 1898 11:00:00 PM",7426.91
+United States,USA,"Sun, 01 Jan 1899 11:00:00 PM",7959.15
+United States,USA,"Sun, 01 Jan 1900 11:00:00 PM",8037.57
+United States,USA,"Sun, 01 Jan 1901 11:00:00 PM",8770.36
+United States,USA,"Sun, 01 Jan 1902 11:00:00 PM",8684.23
+United States,USA,"Sun, 01 Jan 1903 11:00:00 PM",8941.35
+United States,USA,"Sun, 01 Jan 1904 11:00:00 PM",8663.66
+United States,USA,"Sun, 01 Jan 1905 11:00:00 PM",9121.33
+United States,USA,"Sun, 01 Jan 1906 11:00:00 PM",9980.11
+United States,USA,"Sun, 01 Jan 1907 11:00:00 PM",9950.54
+United States,USA,"Sun, 01 Jan 1908 11:00:00 PM",8975.98
+United States,USA,"Sun, 01 Jan 1909 11:00:00 PM",9798.12
+United States,USA,"Sun, 01 Jan 1910 11:00:00 PM",9636.78
+United States,USA,"Sun, 01 Jan 1911 11:00:00 PM",9735.89
+United States,USA,"Sun, 01 Jan 1912 11:00:00 PM",9976.57
+United States,USA,"Sun, 01 Jan 1913 11:00:00 PM",10107.97
+United States,USA,"Sun, 01 Jan 1914 11:00:00 PM",9096.37
+United States,USA,"Sun, 01 Jan 1915 11:00:00 PM",9164.18
+United States,USA,"Sun, 01 Jan 1916 11:00:00 PM",10222.32
+United States,USA,"Sun, 01 Jan 1917 11:00:00 PM",9769.08
+United States,USA,"Sun, 01 Jan 1918 11:00:00 PM",10471.31
+United States,USA,"Sun, 01 Jan 1919 11:00:00 PM",10449.78
+United States,USA,"Sun, 01 Jan 1920 11:00:00 PM",10152.93
+United States,USA,"Sun, 01 Jan 1921 11:00:00 PM",9674.88
+United States,USA,"Sun, 01 Jan 1922 11:00:00 PM",10009.72
+United States,USA,"Sun, 01 Jan 1923 11:00:00 PM",11071.24
+United States,USA,"Sun, 01 Jan 1924 11:00:00 PM",11126.71
+United States,USA,"Sun, 01 Jan 1925 11:00:00 PM",11149.77
+United States,USA,"Sun, 01 Jan 1926 11:00:00 PM",11647.77
+United States,USA,"Sun, 01 Jan 1927 11:00:00 PM",11532.4
+United States,USA,"Sun, 01 Jan 1928 11:00:00 PM",11451.07
+United States,USA,"Sun, 01 Jan 1929 11:00:00 PM",11954.24
+United States,USA,"Sun, 01 Jan 1930 11:00:00 PM",10694.98
+United States,USA,"Sun, 01 Jan 1931 11:00:00 PM",9930.96
+United States,USA,"Sun, 01 Jan 1932 11:00:00 PM",8380.5
+United States,USA,"Sun, 01 Jan 1933 11:00:00 PM",8048.22
+United States,USA,"Sun, 01 Jan 1934 11:00:00 PM",8667.09
+United States,USA,"Sun, 01 Jan 1935 11:00:00 PM",9680.84
+United States,USA,"Sun, 01 Jan 1936 11:00:00 PM",10568.01
+United States,USA,"Sun, 01 Jan 1937 11:00:00 PM",11295.1
+United States,USA,"Sun, 01 Jan 1938 11:00:00 PM",10526.13
+United States,USA,"Sun, 01 Jan 1939 11:00:00 PM",11171.45
+United States,USA,"Sun, 01 Jan 1940 11:00:00 PM",12005.1
+United States,USA,"Sun, 01 Jan 1941 11:00:00 PM",13553.4
+United States,USA,"Sun, 01 Jan 1942 11:00:00 PM",14869.86
+United States,USA,"Sun, 01 Jan 1943 11:00:00 PM",16050.22
+United States,USA,"Sun, 01 Jan 1944 11:00:00 PM",16999.33
+United States,USA,"Sun, 01 Jan 1945 11:00:00 PM",16477.55
+United States,USA,"Sun, 01 Jan 1946 11:00:00 PM",14822.47
+United States,USA,"Sun, 01 Jan 1947 11:00:00 PM",14311.55
+United States,USA,"Sun, 01 Jan 1948 11:00:00 PM",14734.23
+United States,USA,"Sun, 01 Jan 1949 11:00:00 PM",14196.67
+United States,USA,"Sun, 01 Jan 1950 11:00:00 PM",15240
+United States,USA,"Sun, 01 Jan 1951 11:00:00 PM",16125
+United States,USA,"Sun, 01 Jan 1952 11:00:00 PM",16444
+United States,USA,"Sun, 01 Jan 1953 11:00:00 PM",16917
+United States,USA,"Sun, 01 Jan 1954 11:00:00 PM",16512
+United States,USA,"Sun, 01 Jan 1955 11:00:00 PM",17370
+United States,USA,"Sun, 01 Jan 1956 11:00:00 PM",17397
+United States,USA,"Sun, 01 Jan 1957 11:00:00 PM",17406
+United States,USA,"Sun, 01 Jan 1958 11:00:00 PM",16946
+United States,USA,"Sun, 01 Jan 1959 11:00:00 PM",17900
+United States,USA,"Sun, 01 Jan 1960 11:00:00 PM",18057
+United States,USA,"Sun, 01 Jan 1961 11:00:00 PM",18175
+United States,USA,"Sun, 01 Jan 1962 11:00:00 PM",18976
+United States,USA,"Sun, 01 Jan 1963 11:00:00 PM",19514
+United States,USA,"Sun, 01 Jan 1964 11:00:00 PM",20360
+United States,USA,"Sun, 01 Jan 1965 11:00:00 PM",21390
+United States,USA,"Sun, 01 Jan 1966 11:00:00 PM",22529
+United States,USA,"Sun, 01 Jan 1967 11:00:00 PM",22842
+United States,USA,"Sun, 01 Jan 1968 11:00:00 PM",23691
+United States,USA,"Sun, 01 Jan 1969 11:00:00 PM",24195
+United States,USA,"Sun, 01 Jan 1970 11:00:00 PM",23958
+United States,USA,"Sun, 01 Jan 1971 11:00:00 PM",24394
+United States,USA,"Sun, 01 Jan 1972 11:00:00 PM",25414
+United States,USA,"Sun, 01 Jan 1973 11:00:00 PM",26602
+United States,USA,"Sun, 01 Jan 1974 11:00:00 PM",26286
+United States,USA,"Sun, 01 Jan 1975 11:00:00 PM",25956
+United States,USA,"Sun, 01 Jan 1976 11:00:00 PM",27058
+United States,USA,"Sun, 01 Jan 1977 11:00:00 PM",28001
+United States,USA,"Sun, 01 Jan 1978 11:00:00 PM",29286
+United States,USA,"Sun, 01 Jan 1979 11:00:00 PM",29949
+United States,USA,"Sun, 01 Jan 1980 11:00:00 PM",29611
+United States,USA,"Sun, 01 Jan 1981 11:00:00 PM",30056
+United States,USA,"Sun, 01 Jan 1982 11:00:00 PM",29210
+United States,USA,"Sun, 01 Jan 1983 11:00:00 PM",30158
+United States,USA,"Sun, 01 Jan 1984 11:00:00 PM",32076
+United States,USA,"Sun, 01 Jan 1985 11:00:00 PM",33023
+United States,USA,"Sun, 01 Jan 1986 11:00:00 PM",33850
+United States,USA,"Sun, 01 Jan 1987 11:00:00 PM",34730
+United States,USA,"Sun, 01 Jan 1988 11:00:00 PM",35863
+United States,USA,"Sun, 01 Jan 1989 11:00:00 PM",36756
+United States,USA,"Sun, 01 Jan 1990 11:00:00 PM",36982
+United States,USA,"Sun, 01 Jan 1991 11:00:00 PM",36463.96
+United States,USA,"Sun, 01 Jan 1992 11:00:00 PM",37240.3
+United States,USA,"Sun, 01 Jan 1993 11:00:00 PM",37761.54
+United States,USA,"Sun, 01 Jan 1994 11:00:00 PM",38807.28
+United States,USA,"Sun, 01 Jan 1995 11:00:00 PM",39390.63
+United States,USA,"Sun, 01 Jan 1996 11:00:00 PM",40412.75
+United States,USA,"Sun, 01 Jan 1997 11:00:00 PM",41722.67
+United States,USA,"Sun, 01 Jan 1998 11:00:00 PM",43072.76
+United States,USA,"Sun, 01 Jan 1999 11:00:00 PM",44575.85
+United States,USA,"Sun, 01 Jan 2000 11:00:00 PM",45886.47
+United States,USA,"Sun, 01 Jan 2001 11:00:00 PM",45878.01
+United States,USA,"Sun, 01 Jan 2002 11:00:00 PM",46266.3
+United States,USA,"Sun, 01 Jan 2003 11:00:00 PM",47158
+United States,USA,"Sun, 01 Jan 2004 11:00:00 PM",48492.72
+United States,USA,"Sun, 01 Jan 2005 11:00:00 PM",49654.76
+United States,USA,"Sun, 01 Jan 2006 11:00:00 PM",50489.86
+United States,USA,"Sun, 01 Jan 2007 11:00:00 PM",50901.74
+United States,USA,"Sun, 01 Jan 2008 11:00:00 PM",50275.75
+United States,USA,"Sun, 01 Jan 2009 11:00:00 PM",48452.93
+United States,USA,"Sun, 01 Jan 2010 11:00:00 PM",49266.92
+United States,USA,"Sun, 01 Jan 2011 11:00:00 PM",49675
+United States,USA,"Sun, 01 Jan 2012 11:00:00 PM",50394
+United States,USA,"Sun, 01 Jan 2013 11:00:00 PM",50863
+United States,USA,"Sun, 01 Jan 2014 11:00:00 PM",51664
+United States,USA,"Sun, 01 Jan 2015 11:00:00 PM",52591
+United States,USA,"Sun, 01 Jan 2016 11:00:00 PM",53015
+United States,USA,"Sun, 01 Jan 2017 11:00:00 PM",54007.77
+United States,USA,"Sun, 01 Jan 2018 11:00:00 PM",55334.74
+Western Europe,,"Sun, 01 Jan 1820 11:00:00 PM",2306.97
+Western Europe,,"Sun, 01 Jan 1830 11:00:00 PM",2384.31
+Western Europe,,"Sun, 01 Jan 1840 11:00:00 PM",2579.53
+Western Europe,,"Sun, 01 Jan 1850 11:00:00 PM",2678
+Western Europe,,"Sun, 01 Jan 1860 11:00:00 PM",3034
+Western Europe,,"Sun, 01 Jan 1870 11:00:00 PM",3301.3
+Western Europe,,"Sun, 01 Jan 1880 11:00:00 PM",3585.15
+Western Europe,,"Sun, 01 Jan 1890 11:00:00 PM",4079.31
+Western Europe,,"Sun, 01 Jan 1900 11:00:00 PM",4724.3
+Western Europe,,"Sun, 01 Jan 1910 11:00:00 PM",5134.76
+Western Europe,,"Sun, 01 Jan 1920 11:00:00 PM",4883.54
+Western Europe,,"Sun, 01 Jan 1930 11:00:00 PM",6409.11
+Western Europe,,"Sun, 01 Jan 1940 11:00:00 PM",7184.53
+Western Europe,,"Sun, 01 Jan 1950 11:00:00 PM",7263.26
+Western Europe,,"Sun, 01 Jan 1960 11:00:00 PM",10973.87
+Western Europe,,"Sun, 01 Jan 1970 11:00:00 PM",16161.44
+Western Europe,,"Sun, 01 Jan 1980 11:00:00 PM",20950.23
+Western Europe,,"Sun, 01 Jan 1990 11:00:00 PM",25440.04
+Western Europe,,"Sun, 01 Jan 2000 11:00:00 PM",32536.31
+Western Europe,,"Sun, 01 Jan 2010 11:00:00 PM",37318.37
+Western Europe,,"Sun, 01 Jan 2016 11:00:00 PM",38511.33
+Western Europe,,"Sun, 01 Jan 2017 11:00:00 PM",39256.53
+Western Europe,,"Sun, 01 Jan 2018 11:00:00 PM",39789.9

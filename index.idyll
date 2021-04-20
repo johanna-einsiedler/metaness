@@ -63,7 +63,12 @@ spec:`{
    }
 }` width: 400  /]
 
-[div className:'caption'] Based on Herrendorf et al. (2014) [/div]
+[div className:'caption'] Based on Our World In Data [Cite 
+authors: "Our World in Date (Nicolas Lippolis)"
+title: "Growth and Structural Transformation” Handbook of Economic Growth Vol. 2B"
+date: "2020"
+url: "https://ourworldindata.org/grapher/employment-by-economic-sector?tab=table&country=~USA"
+/][/div]
 
 [/Aside]
 
@@ -79,8 +84,70 @@ The industrial revolution changed worklife for many. Productivity increased and 
 
 Working in industry meant that the purpose of your job was somehow related to manufacturing physical goods that people would use to either (1) grow & harvest more food on less land and in a shorter time, (2) produce other goods or (3) use in their daily life to increase their living standard.
 
-
 ## Meta 2
+
+[Aside]
+
+[data name:"gdp_pc" source:"gdp.csv" /]
+
+[var name:"selectGDP" value:"United States" /]
+[Select value:selectGDP options:`["United States", "South and South-East Asia", "Middle East", "Eastern Europe", "Australia", "Western Europe"]`  /]
+
+
+[derived name:'gdp' value:`gdp_pc.filter( c => c.country==selectGDP)`/]
+
+[div style:`{color:"#fffff8"}`]
+  xxxxxxxxxxx
+  [/div]
+
+[IdyllVegaLite data:gdp
+
+spec:`{
+  mark: "line",
+  encoding: {
+    x: {
+        field: "year",
+        axis: {title: "Year"},
+        type: "temporal"
+
+        
+    },
+    y: {
+      field: "gdp",
+      type: "quantitative",
+      axis: {title: "GDP per Capita, $ in 2011 prices"}
+    }
+  },
+   config: {
+    mark: {
+      color: "black"
+    },
+    axis: {
+      labelFont: "Gill Sans",
+      grid: false
+    },
+    background: "#fffff8"
+   ,
+   view:{
+     stroke: "transparent"
+   }
+   }
+}` width: 400  /]
+
+[div style:`{color:"#fffff8"}`]
+  xxxxxxxxxxx
+  [/div]
+
+[div className:'caption'] Based on Maddison Project Database 2020 (Bolt and van Zanden(2020)) [Cite 
+authors: "Bolt, Jutta and Jan Luiten van Zanden"
+title: "Maddison style estimates of the evolution of the world economy. A new 2020 update"
+date: "2020"
+url: "https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2020"
+/]
+[/div]
+[/Aside]
+
+
 Over time productivity also increased in the industrial sector. Humans engineered ever more cool machines that would make it easier and faster to produce goods. In consequence, more people became available to work in the service sector. Already by 1930, the majority of the U.S. population earned a living as ‘service providers’.
 
 By offering services to others, your goal would be to either (1) help other people to produce food or goods more efficiently, (2) enable other service providers to offer better services or (3) make everyday life more enjoyable for consumers.
@@ -89,187 +156,125 @@ Maybe you already see where this is heading.
 
 
 
+## Meta 3
+Thanks to software automation, many services which used to be taken care of by humans are performed by computers these days. Therefore less people are needed in the service industry, which gives rise to the guild of online creation. I call this the digital sector but you could also think of it as the information economy, online business or remote workers. Currently, in the U.S. 18% of the workforce are working remote full-time (a number which has risen by 173% between 2005 and 2018).
+
+As an online creator you aim to either (1) make digital products that serve the agricultural, industrial or service sector, (2) provide tools to enable other creators or (3) cater to a psychological need of humans on one of the higher levels of Maslow’s Pyramid.
+
+## Why is all of this relevant?
+
+[Aside]
+![pyramid](static/images/pyramid.png)
+
+[div className:'caption']
+To clarify, I don’t believe that jobs in more meta industries are superior in any way. Or the other way round. I just think jobs on a higher meta level cater to increasingly higher located needs in the Maslow pyramid or ultimately support one of the lower meta level industries. The notion of higher/lower has a purely explanatory purpose.
+[/div]
+
+[/Aside]
 
 
 
+In essence what I have just written down here is nothing new, the ‘three sector model of economics’ has been developed ages ago and also the concept of knowledge workers and/or the creator economy is buzzing around our newsfeeds almost on a daily basis (especially since the pandemic propelled a shift to more remote work). Nevertheless, I thought that it’s worth telling this story once more and emphasizing what I’d call the progression of ‘metaness’ throughout this development.
+
+Every one of these sectors, from agriculture to digital, adds on an additional meta level to the existing economy. This allows us to increase our society’s standard of living but also makes the structure of our economy more complex. While farming work has a clear purpose, namely the feeding of humans and animals, the meaning and impact of work becomes harder to summarize in one sentence as we progress through the different sectors. Jobs that are more ‘meta’ tend to create value by either providing some kind of assistance to one of the lower levels or addressing increasingly sophisticated human needs. I hope my little graphic helps to convey what exactly I mean by that and makes this explanation a bit less meta (pun intended).
 
 
 
+## The difference between quality & bullsh*t
+One of the consequences of metaness is, that it becomes harder to tell the difference between quality work and bullsh* t. I don’t know if you too used to play the ‘Why Game’ as a kid, but it is essentially just that. You ask a person why she is doing something and then, ask again for the why in her answer. And again. And again. Until you managed to nail down the final purpose. The higher we progress on the ladder of metaness, the more ‘Why’s you need to ask and the easier it becomes for scammers to hide a lack in value between the levels. To give you an example, I’d say it’s quite easy to judge whether food is good or bad. But it is much harder to judge the value of a consultant’s work. As a consequence, you’ll find more bullsh*t jobs and workers that only provide very little value to overall society on the higher levels.
+
+However, with that I don’t mean that meta work in itself is worthless. I just think there exists a comparatively high percentage of people in ‘high metaness’ professions that just want your money but are not willing to provide much value. These individuals are also one of the reasons why knowledge work often gets devalued as ‘not real work’ or ‘not providing value’.
 
 
+## Becoming an influencer is legit
+
+[Aside]
+
+[data name:"patreon" source:"payout.csv" /]
 
 
-
-
-
-
-
-[data name:"MPD2020" source:"mpd2020.csv" /]
-
-
-
-[IdyllVegaLite data: MPD2020
+[IdyllVegaLite data:patreon
 
 spec:`{
-  mark: "line",
+  mark: "bar",
   encoding: {
     x: {
-       field: "year",
-        type: "ordinal",
-        axis: {title: "Year"}
+        field: "month",
+        axis: {title: "Time"},
+        type: "temporal"
+
         
     },
     y: {
-      field: "western_europe",
+      field: "payout",
       type: "quantitative",
-      axis: {title: "GDP/Capita"},
-      scale: { domain: [0, 400] }
+      axis: {title: "Estimated Monthly Payouts to Patreon Creators"}
     }
   },
    config: {
     mark: {
       color: "black"
     },
-    title: {
-    text: "Test",
-    size: "20px"
-
-    },
     axis: {
-      labelFont: "Gill Sans"
+      labelFont: "Gill Sans",
+      grid: false
     },
     background: "#fffff8"
+   ,
+   view:{
+     stroke: "transparent"
+   },
+   title: {
+     text: "Test"
    }
-}` width: `"container` /]
+   }
+}` width: 400  /]
 
+[div style:`{color:"#fffff8"}`]
+  xxxxxxxxxxx
+  [/div]
 
+[div className:'caption'] Based on graphtreon.com [Cite 
+authors: "Graphtreon"
+title: "Patreon Creators Statistics"
+date: "2020"
+url: "https://graphtreon.com/patreon-stats"
+/]
+[/div]
 
-Configuration can be done via the `idyll` field in `package.json`.
-
-## Markup
-
-Idyll is based on Markdown.
-
-You can use familiar syntax
-to create **bold** (`**bold**` ) and *italic* (`*italic*` ) styles,
-
-* lists
-* of
-* items,
-
-```
-* lists
-* of
-* items,
-```
-
-1. and numbered
-2. lists
-3. of items,
-
-
-```
-1. and numbered
-2. lists
-3. of items,
-```
-
-in addition to [hyperlinks](https://idyll-lang.org) and images:
-
-![quill](static/images/quill.svg)
-
-```
-![quill](static/images/quill.svg)
-```
-
-
-[Aside]
-[Fixed]
-[var name:"state" value:0 /]
-[CustomD3Component className:"d3-component" state:state /]
-[button onClick:`state++`]
-  Click Me.
-[/button]
-[/Fixed]
 [/Aside]
 
+In the past years, the number of online creators has increased massively. Likewise, there exist tons of resources that advertise with the slogan that ‘everyone can build their own brand and earn a living as an online influencer/podcaster/software developer/writer etc.’ if just following ‘The complete guide to earning $10k+ as a XXX’. I personally often thought that this must be scam, because in the end someone needs to pay the creators. And I still have this opinion (because a world full of just influencers would starve) but I think there might be more truth to it, than often thought.
 
-## Components
-
-Components can be embedded using a bracket syntax:
-
-```
-[Range /]
-```
-
-and can contain nested content:
-
-```
-[Equation]e = mc^{2}[/Equation]
-```
-
-Components accept properties:
-
-```
-[Range value:x min:0 max:1 /]
-```
-
-that can be bound to variables to achieve interactivity (more in next section).
+We are still experiencing a long-term GDP/capita growth (putting COVID aside for a moment), which shows that productivity is increasing and in turn the standard of living is rising. This means people are moving their focus to needs located closer to the top of the Maslow’s pyramid and at the same time less people are needed in Meta 0-2. Thus, this is (and probably will be for some time) an expanding industry, where more jobs are created and workers in this industry serve some of humans (admittedly high level) needs. And while not everyone can work on Meta 3 (and most likely also not everyone wants to), chances are many more people will actually be able to support themselves as an independent online creator (although it probably takes a bit more than just following the steps of a single ‘How-to’ guide).
 
 
-A variety of components are included by default. See [all the available components](https://idyll-lang.org/docs/components/). You can also use any html tag, for example: `[div] A div! [/div]`.
+## Getting too meta is a risk
+And while it is probably (easily) possible to earn a living on Meta 3, I think any digital value creator would be well advised to not put all his eggs into one basket but diversify his earnings and/or savings. The higher you climb up the pyramid the more fragile your daily income is. If you farm corn, you can be quite sure that there will be some demand throughout the next years. If you produce videos, a change in what’s regarded as trendy can take you from a substantial monthly income to $0 earnings in almost no time. 
 
-To create your own, add it to the `components/` folder. There are examples of how to use Idyll with React and D3 based components already included.
+Becoming too meta is also a risk, for society as a whole. Comparing to the 1800s where daily life was almost the same for over 80% of the population, today’s landscape of existing lifestyles is much more fragmented. This makes it harder for us to communicate with people outside of our very own bubble (or decrease the size of our bubble, however you want to view it) - often realities of ‘outsiders’ are so different that it makes it seemingly very hard to convey a message. One way that we are noticing this is increasing polarization. Another one is the growth in all types of specialised sub-communities. Becoming more and more meta (potentially progressing to a Meta 4 at some point?) is thus risky for a society, as its members have a harder time relating to each other and identify with a shared set of values.
+
+I have caught myself multiple times, assuming somehow implicitly that people around me wake up to a somewhat similar reality than I do. This here is the manifestation of my pledge to keep reminding myself that this is simply not the case.
 
 
 
-## Interactivity
+[Aside ]
+[div style:`{width:"50px"}`]
+![carrot](static/images/carrot.png)
+[/div]
 
-Here is how you can instantiate a variable and bind it to a component:
+[/Aside]
 
-[var name:"exampleVar" value:5 /]
+With all that being said, I am going to close my laptop now and do some garden work. You know, maybe I’ll have to survive on those home-grown carrots at some point.
 
-[Range min:0 max:10 value:exampleVar /]
-[Display value:exampleVar /]
+[div style:`{color:"#fffff8"}`]
+  xxxxxxxxxxx
+  [/div]
 
-```
-[var name:"exampleVar" value:5 /]
+[div style:`{size: "40px"}`]
+[i] If you liked what you read, consider signing up for my **[link text: "bi-weekly newsletter" url: "https://curatedcuriosityj.substack.com/" /]** or sharing with a friend. 
 
-[Range min:0 max:10 value:exampleVar /]
-[Display value:exampleVar /]
-```
+If you didn't like what you read, consider [link text: "shooting me an email" url: "mailto:curatedcuriosity@protonmail.com" /] to bring on the discussion. [/i]
+[/div]
 
-## Learn More
-
-To learn more see the documentation at [https://idyll-lang.org/docs/](https://idyll-lang.org/docs/),
-join our [chatroom](https://gitter.im/idyll-lang/Lobby), or see the project on [GitHub](https://github.com/idyll-lang/idyll).
-
-[hr /]
-
-# Technical Details
-
-## Installation
-
-- Make sure you have `idyll` installed (`npm i -g idyll`).
-- Clone this repo and run `npm install`.
-
-## Developing a post locally
-
-Run `idyll`.
-
-## Building a post for production
-
-Run `idyll build`. The output will appear in the top-level `build` folder. To change the output location, change the `output` option in `package.json`.
-
-## Deploying
-
-Make sure your post has been built, then deploy the docs folder via any static hosting service.
-
-## Dependencies
-
-You can install custom dependencies by running `npm install <package-name> --save`. Note that any collaborators will also need download the package locally by running `npm install` after pulling the changes.
-
-
-
-[var name:"x" value:0 /]
-
+[Cite.References/]
