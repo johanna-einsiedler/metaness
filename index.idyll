@@ -1,0 +1,275 @@
+
+[Header
+
+  fullWidth:false
+  title:"On Worklife Becoming More Meta"
+  subtitle:"A short story of the history of work & what's ahead"
+  author:"Jae"
+  authorLink:"https://curatedcuriosityj.substack.com/"
+  date:`(new Date()).toDateString()`
+
+   /]
+
+[data name:"Since1800" source:"since-1800-2.csv" /]
+
+## Meta 0
+In 1800 the majority of people worked as farmers. In the U.S. it was more than 80% of the overall population. Everyday lives of these people very much resembled one another.
+
+
+
+[Aside]
+
+[var name:"selectVal" value:"United States" /]
+[Select value:selectVal options:`["United States", "United Kingdom", "Sweden", "Spain", "South Korea", "Netherlands", "Japan", "France", "Finland", "Belgium"]`  /]
+
+[derived name:'agri' value:`Since1800.filter( c => c.country==selectVal)`/]
+[div style:`{color:"#fffff8"}`]
+  xxxxxxxxxxx
+  [/div]
+
+
+[IdyllVegaLite data:agri
+
+spec:`{
+  mark: "line",
+  encoding: {
+    x: {
+        field: "year",
+        axis: {title: "Year"},
+        type: "temporal"
+
+        
+    },
+    y: {
+      field: "since_1800",
+      type: "quantitative",
+      axis: {title: " People Employed in Agriculture"},
+
+    }
+  },
+   config: {
+    mark: {
+      color: "black"
+    },
+    axis: {
+      labelFont: "Gill Sans",
+      grid: false
+    },
+    background: "#fffff8"
+   ,
+   view:{
+     stroke: "transparent"
+   }
+   }
+}` width: 400  /]
+
+[div className:'caption'] Based on Herrendorf et al. (2014) [/div]
+
+[/Aside]
+
+
+
+The typical 19th century farmer would wake up when the sun started to rise and spend most of his day out on the fields, seeding or harvesting, depending on the time of the year. When the sun went down he’d go home, eat some yummy bean stew from his very own acre and potentially have a glass of home-brewed whiskey (or more likely two). The next day he’d start all over again (except if it were a Sunday).
+
+Life as a farmer was simple and it’s easy to nail down the motivation for work: Feeding yourself and your loved ones.
+
+
+## Meta 1
+The industrial revolution changed worklife for many. Productivity increased and one farmer was now able to produce more food than her family would need to survive. Therefore, some people put down plow and sickle for good and went to work in industries. Eventually the western world moved to a state where industry and not agriculture was the driving force of economic growth. By 1880, it was less than half of U.S. citizens who were employed in the agricultural sector.
+
+Working in industry meant that the purpose of your job was somehow related to manufacturing physical goods that people would use to either (1) grow & harvest more food on less land and in a shorter time, (2) produce other goods or (3) use in their daily life to increase their living standard.
+
+
+## Meta 2
+Over time productivity also increased in the industrial sector. Humans engineered ever more cool machines that would make it easier and faster to produce goods. In consequence, more people became available to work in the service sector. Already by 1930, the majority of the U.S. population earned a living as ‘service providers’.
+
+By offering services to others, your goal would be to either (1) help other people to produce food or goods more efficiently, (2) enable other service providers to offer better services or (3) make everyday life more enjoyable for consumers.
+
+Maybe you already see where this is heading.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[data name:"MPD2020" source:"mpd2020.csv" /]
+
+
+
+[IdyllVegaLite data: MPD2020
+
+spec:`{
+  mark: "line",
+  encoding: {
+    x: {
+       field: "year",
+        type: "ordinal",
+        axis: {title: "Year"}
+        
+    },
+    y: {
+      field: "western_europe",
+      type: "quantitative",
+      axis: {title: "GDP/Capita"},
+      scale: { domain: [0, 400] }
+    }
+  },
+   config: {
+    mark: {
+      color: "black"
+    },
+    title: {
+    text: "Test",
+    size: "20px"
+
+    },
+    axis: {
+      labelFont: "Gill Sans"
+    },
+    background: "#fffff8"
+   }
+}` width: `"container` /]
+
+
+
+Configuration can be done via the `idyll` field in `package.json`.
+
+## Markup
+
+Idyll is based on Markdown.
+
+You can use familiar syntax
+to create **bold** (`**bold**` ) and *italic* (`*italic*` ) styles,
+
+* lists
+* of
+* items,
+
+```
+* lists
+* of
+* items,
+```
+
+1. and numbered
+2. lists
+3. of items,
+
+
+```
+1. and numbered
+2. lists
+3. of items,
+```
+
+in addition to [hyperlinks](https://idyll-lang.org) and images:
+
+![quill](static/images/quill.svg)
+
+```
+![quill](static/images/quill.svg)
+```
+
+
+[Aside]
+[Fixed]
+[var name:"state" value:0 /]
+[CustomD3Component className:"d3-component" state:state /]
+[button onClick:`state++`]
+  Click Me.
+[/button]
+[/Fixed]
+[/Aside]
+
+
+## Components
+
+Components can be embedded using a bracket syntax:
+
+```
+[Range /]
+```
+
+and can contain nested content:
+
+```
+[Equation]e = mc^{2}[/Equation]
+```
+
+Components accept properties:
+
+```
+[Range value:x min:0 max:1 /]
+```
+
+that can be bound to variables to achieve interactivity (more in next section).
+
+
+A variety of components are included by default. See [all the available components](https://idyll-lang.org/docs/components/). You can also use any html tag, for example: `[div] A div! [/div]`.
+
+To create your own, add it to the `components/` folder. There are examples of how to use Idyll with React and D3 based components already included.
+
+
+
+## Interactivity
+
+Here is how you can instantiate a variable and bind it to a component:
+
+[var name:"exampleVar" value:5 /]
+
+[Range min:0 max:10 value:exampleVar /]
+[Display value:exampleVar /]
+
+```
+[var name:"exampleVar" value:5 /]
+
+[Range min:0 max:10 value:exampleVar /]
+[Display value:exampleVar /]
+```
+
+## Learn More
+
+To learn more see the documentation at [https://idyll-lang.org/docs/](https://idyll-lang.org/docs/),
+join our [chatroom](https://gitter.im/idyll-lang/Lobby), or see the project on [GitHub](https://github.com/idyll-lang/idyll).
+
+[hr /]
+
+# Technical Details
+
+## Installation
+
+- Make sure you have `idyll` installed (`npm i -g idyll`).
+- Clone this repo and run `npm install`.
+
+## Developing a post locally
+
+Run `idyll`.
+
+## Building a post for production
+
+Run `idyll build`. The output will appear in the top-level `build` folder. To change the output location, change the `output` option in `package.json`.
+
+## Deploying
+
+Make sure your post has been built, then deploy the docs folder via any static hosting service.
+
+## Dependencies
+
+You can install custom dependencies by running `npm install <package-name> --save`. Note that any collaborators will also need download the package locally by running `npm install` after pulling the changes.
+
+
+
+[var name:"x" value:0 /]
+
