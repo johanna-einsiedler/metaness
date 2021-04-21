@@ -4,7 +4,7 @@
   fullWidth:false
   title:"On Worklife Becoming More Meta"
   subtitle:"A short story of the history of work & what's ahead"
-  author:"Jae"
+  author:"J."
   authorLink:"https://curatedcuriosityj.substack.com/"
   date:`(new Date()).toDateString()`
 
@@ -234,7 +234,7 @@ spec:`{
   xxxxxxxxxxx
   [/div]
 
-[div className:'caption'] Patreon is a platform, that allows creators of all kinds to receiv payments from their subscribers. Data from graphtreon.com [Cite 
+[div className:'caption'] Patreon is a platform, that allows creators of all kinds to receive payments from their subscribers. Data from graphtreon.com [Cite 
 authors: "Graphtreon"
 title: "Patreon Creators Statistics"
 date: "2020"
@@ -274,6 +274,7 @@ With all that being said, I am going to close my laptop now and do some garden w
 
 
 [div style:`{size: "40px"}`]
+
 [i] If you liked what you read, consider signing up for my **[link text: "bi-weekly newsletter" url: "https://curatedcuriosityj.substack.com/" /]** or sharing with a friend. 
 
 If you didn't like what you read, consider [link text: "shooting me an email" url: "mailto:curatedcuriosity@protonmail.com" /] to bring on the discussion. [/i]
